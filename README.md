@@ -2,7 +2,9 @@
 
 > **End-to-end retail recommendation engine using FP-Growth association rule mining**  
 > Industry-level · Resume-ready · Deployable on Streamlit Cloud
-
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://smart-store-recommender.streamlit.app)
+## Live Demo
+👉 Click here to open the app: https://smart-store-recommender.streamlit.app
 ---
 
 ## 📐 Architecture
